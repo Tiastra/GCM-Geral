@@ -1,5 +1,8 @@
-Como fazer commit
+﻿Como fazer commit
 git pull
 git add .
 git commit -m "Descrição sobre edição"
 git push -u origin master
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Obrigada!
