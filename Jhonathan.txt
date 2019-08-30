@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 ﻿Como addcionar arquivos github
+=======
+﻿Como fazer commit
+>>>>>>> e6e832b76e147cf706822a8babe119eb1c57378a
 git pull
 git add .
 git commit -m "Descrição sobre edição"
 git push -u origin master
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Obrigada!
