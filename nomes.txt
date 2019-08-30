@@ -1,3 +1,23 @@
 Tiago Oliveira
 
+<<<<<<< HEAD
 Diego Venturini - SCRUM MASTER
+=======
+<<<<<<< HEAD
+
+Laura de Faria e Castro
+
+=======
+Pablo Soares
+
+Rogerio Tostes
+
+Laura Castro
+
+<<<<<<< HEAD
+Laura Castro
+>>>>>>> f3abc32057be207fce9428da97dbaa2f93cf4acc
+=======
+Gabriel Testoni
+>>>>>>> 6062d07face114cfe1c88b8b965aa7a84c3cb494
+>>>>>>> aef197ca42959183494a55e951e22d090fd19dc1
