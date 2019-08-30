@@ -1,7 +1,10 @@
 Tiago Oliveira
 
+
 Laura de Faria e Castro
 
+=======
+>>>>>>> ba8e7c51fbd5ea46745feef4eac6ad0cb2ebb2d6
 Pablo Soares
 
 Rogerio Tostes
@@ -10,3 +13,7 @@ Laura Castro
 
 Gabriel Testoni
 
+<<<<<<< HEAD
+=======
+Jhonathan Meireles
+>>>>>>> ba8e7c51fbd5ea46745feef4eac6ad0cb2ebb2d6
