@@ -1,5 +1,13 @@
 Tiago Oliveira
 
+<<<<<<< HEAD
 
 Laura de Faria e Castro
 
+=======
+Pablo Soares
+
+Rogerio Tostes
+
+Laura Castro
+>>>>>>> f3abc32057be207fce9428da97dbaa2f93cf4acc
