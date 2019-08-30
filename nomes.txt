@@ -10,4 +10,10 @@ Pablo Soares
 Rogerio Tostes
 
 Laura Castro
+
+<<<<<<< HEAD
+Laura Castro
 >>>>>>> f3abc32057be207fce9428da97dbaa2f93cf4acc
+=======
+Gabriel Testoni
+>>>>>>> 6062d07face114cfe1c88b8b965aa7a84c3cb494
