@@ -1,4 +1,4 @@
-Como fazer commit
+﻿Como addcionar arquivos github
 git pull
 git add .
 git commit -m "Descrição sobre edição"
