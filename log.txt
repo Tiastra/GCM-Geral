@@ -1,0 +1,308 @@
+commit 7fe146bfd947b1e5f8acf8277f6065a80b4b8003
+Author: italo-o-r <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:24:25 2019 -0300
+
+    Alteração Italo
+
+commit 579b83ee23dda9c784d19aec5a2c20da212bf63e
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:26:54 2019 -0300
+
+    gabriel4
+
+commit 9becc64644b251b27a79238af18d7b5a1f0b357d
+Merge: 5a72e2b 62ab4e9
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:26:03 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit 5a72e2bd878053068bddab269060ba8c680d4e6b
+Merge: 94544e4 e6e832b
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:24:13 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit 94544e44e31a29ad633ec96b32d831791de42cef
+Merge: ec8ad6c b07fa78
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:21:27 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit 62ab4e95ace671db4c7c6552f2d918d2061fab76
+Merge: 78d19ee e6e832b
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:21:07 2019 -0300
+
+    Aprendiz de github
+
+commit ec8ad6c9d39cc46408c6df7c80e03837051c70b9
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:20:55 2019 -0300
+
+    gabriel 2
+
+commit 02d5891258b5ece0eb71813aff67b470eb526b87
+Merge: e2e0997 24522a9
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:19:49 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit e6e832b76e147cf706822a8babe119eb1c57378a
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 22:19:45 2019 -0300
+
+    Atualização
+
+commit e2e09978f7e6bfa1e352e7d96a27e228141bb838
+Merge: bafd686 a00f1e0
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:19:18 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit 78d19ee63181260feff7244958aafa94596411de
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:17:41 2019 -0300
+
+    Aprendiz de github
+
+commit 24522a9d08c139893a38321585fa47a3a3fa19e1
+Merge: 76e1afe a00f1e0
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 22:17:27 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit bafd686c5ea3c2ba6484b1d5c5f4548f53c126fb
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 22:17:12 2019 -0300
+
+    Arquivo de gabriel
+
+commit 76e1afe76e8f1cb6a7cb446342e659df1993d707
+Merge: 4dc6812 c80c67b
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 22:16:44 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit b07fa78ab861ce3d6adda21265889053ddefcb75
+Merge: 25491ad 24522a9
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:15:52 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit 25491adb20804f66fbe864f1940fbe2ab5555b03
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:15:39 2019 -0300
+
+    Aprendiz de github
+
+commit 4dc68127777506b05761eead4d221ae1b09fb513
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 22:15:37 2019 -0300
+
+    Laura
+
+commit a00f1e006bb78c64b077fad5d752f39144aab8f1
+Merge: d13894b c80c67b
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:14:06 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit c80c67bdbe3e52baf71e9cba6bf75839056421d3
+Merge: abae457 816ebdc
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:13:52 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit abae45762750a98956a03e5956d84651ac5a7676
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:13:41 2019 -0300
+
+    Arquivo Carlos Tiago
+
+commit d13894b4d0ca26173d79fd9ec22a42083bf93b38
+Merge: 398f01b 816ebdc
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:13:27 2019 -0300
+
+    Merge branch 'master' of https://github.com/Tiastra/GCM-Geral
+
+commit 816ebdc2b8110e744a76d7f0cefcf672562782d8
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:13:04 2019 -0300
+
+    Arquivo pablo.txt
+
+commit 398f01b8c17027fb75ab90b05fe949b68f590019
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:12:19 2019 -0300
+
+    Aprendiz de github
+
+commit b8be100ecba64b7af6f23837c25aa472be970f7a
+Merge: 82c3bec 086816a
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:11:34 2019 -0300
+
+    Alteracao do Diego Venturini Scrum Master
+
+commit 086816ae4d5cc0ff60d2ac1e3f0581bfb91bfbb3
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 22:10:26 2019 -0300
+
+    v2
+
+commit 82c3becad6f5ca1830d5ef3d4b9b41fb9a99a030
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:10:07 2019 -0300
+
+    Alteracao do Diego Venturini Scrum Master
+
+commit 5244c21916eb3fd4bf721c1c31e805f482f6633b
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:08:43 2019 -0300
+
+    alteracao do Diego VEnturini
+
+commit 1e7a6ebb59b2ea57c0e7b91a9dc05d78eb184edb
+Merge: 41d9523 d8b1a1f
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:07:14 2019 -0300
+
+    alteracao do Diego VEnturini
+
+commit d8b1a1f45b4f0ca67dba4ff70cca2db6b558ad1f
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 22:06:24 2019 -0300
+
+    Laura
+
+commit 41d95238141fe4dfd3da71b6bb843b363a4fa7f7
+Merge: ff8f789 6421069
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:05:46 2019 -0300
+
+    alteracao do Diego VEnturini
+
+commit ff8f789ce999b512ade96aea5fd88ee9f379f73d
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:01:42 2019 -0300
+
+    minhaAlteracao - DiegoVenturini
+
+commit 64210699bbbae9e9dbd168f137cabc9d9e13bb02
+Merge: 48ae983 ba8e7c5
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 22:00:31 2019 -0300
+
+    Minha alteração - Carlos Tiago
+
+commit 48ae9836014d90990ce3cb2b195f7eded7480108
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:59:41 2019 -0300
+
+    Minha alteração - Carlos Tiago
+
+commit ba8e7c51fbd5ea46745feef4eac6ad0cb2ebb2d6
+Merge: 3d1bba8 aef197c
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:59:19 2019 -0300
+
+    Editado por Jhonathan
+
+commit aef197ca42959183494a55e951e22d090fd19dc1
+Merge: 6e62d49 6062d07
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 21:58:59 2019 -0300
+
+    Laura
+
+commit 6062d07face114cfe1c88b8b965aa7a84c3cb494
+Author: Testonirt <gabrielrt@pm.me>
+Date:   Thu Aug 29 21:59:06 2019 -0300
+
+    Alteracao de Gabriel
+
+commit 95dd51a831f8644f4b3f93c9eaebcdc815559ab3
+Merge: e01dc1a aef197c
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:58:58 2019 -0300
+
+    minha alteracao - Diego Venturini
+
+commit 6e62d49506880c3cd5ea2fe684e6342088516e9f
+Merge: 7606c4e f3abc32
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 21:58:07 2019 -0300
+
+    Laura
+
+commit 3d1bba836331d0c93c4b7899973cba3b9b38c5d5
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:57:19 2019 -0300
+
+    Editado por Jhonathan
+
+commit e01dc1a6fb90abe965acdf53a1abd4baff110638
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:57:06 2019 -0300
+
+    minha alteração - Diego Venturini
+
+commit 7606c4e7df749627c60e6bdb6d48f1d857d30034
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 21:56:31 2019 -0300
+
+    Laura
+
+commit 38a5ee3d60373b11dbaaea2e445efc6cdf16f534
+Author: LauraFCastro <laurafariacastro@outlook.com>
+Date:   Thu Aug 29 21:50:58 2019 -0300
+
+    Laura
+
+commit f3abc32057be207fce9428da97dbaa2f93cf4acc
+Merge: b52232a 9cbe403
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:49:55 2019 -0300
+
+    Arquivo nome modificado
+
+commit 60e4d573ebb5db9bb3ce58d2ffb5f0200f2d44ee
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:46:17 2019 -0300
+
+    Arquivoatualnomes.txt
+
+commit 9cbe403832176e39f3e56c26cf6459e964785cc4
+Author: RogerioTostes <40499106+RogerioTostes@users.noreply.github.com>
+Date:   Thu Aug 29 21:43:37 2019 -0300
+
+    insere nome rogerio
+
+commit b52232ae552dc46da9d470d6a124848f189c684b
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Aug 29 21:40:45 2019 -0300
+
+    Arquivo nome modificado
+
+commit bf902b3702dc17ffe6f2648e3cb61bbc5484d2f3
+Author: Tiago Oliveira <36973310+Tiastra@users.noreply.github.com>
+Date:   Thu Aug 29 21:35:15 2019 -0300
+
+    Create nomes.txt
+
+commit 14cb0bf701f47fb44797434d3b5700b09f1798cd
+Author: Tiago Oliveira <36973310+Tiastra@users.noreply.github.com>
+Date:   Thu Aug 29 21:32:05 2019 -0300
+
+    Initial commit
